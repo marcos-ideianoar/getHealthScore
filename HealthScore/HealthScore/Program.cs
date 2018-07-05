@@ -16,7 +16,7 @@ namespace HealthScore
     {
         public static void Main(string[] args)
         {
-
+            //Esse é um teste
 
             string[] HealthScoreLog = new string[100];
 
